@@ -1,0 +1,15 @@
+﻿  Source.cpp
+c:\users\cshuang6\documents\visual studio 2015\projects\3260_cp\3260_cp\source.cpp(317): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\cshuang6\documents\visual studio 2015\projects\3260_cp\3260_cp\source.cpp(318): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\cshuang6\documents\visual studio 2015\projects\3260_cp\3260_cp\source.cpp(321): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cshuang6\documents\visual studio 2015\projects\3260_cp\3260_cp\source.cpp(322): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cshuang6\documents\visual studio 2015\projects\3260_cp\3260_cp\source.cpp(328): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cshuang6\documents\visual studio 2015\projects\3260_cp\3260_cp\source.cpp(329): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cshuang6\documents\visual studio 2015\projects\3260_cp\3260_cp\source.cpp(512): warning C4101: 'height': unreferenced local variable
+c:\users\cshuang6\documents\visual studio 2015\projects\3260_cp\3260_cp\source.cpp(512): warning C4101: 'width': unreferenced local variable
+c:\users\cshuang6\documents\visual studio 2015\projects\3260_cp\3260_cp\source.cpp(563): warning C4101: 'cubemap_data': unreferenced local variable
+c:\users\cshuang6\documents\visual studio 2015\projects\3260_cp\3260_cp\source.cpp(736): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+c:\users\cshuang6\documents\visual studio 2015\projects\3260_cp\3260_cp\source.cpp(763): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+c:\users\cshuang6\documents\visual studio 2015\projects\3260_cp\3260_cp\source.cpp(789): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+  3260_CP.vcxproj -> C:\Users\cshuang6\Documents\Visual Studio 2015\Projects\3260_CP\x64\Debug\3260_CP.exe
+  3260_CP.vcxproj -> C:\Users\cshuang6\Documents\Visual Studio 2015\Projects\3260_CP\x64\Debug\3260_CP.pdb (Partial PDB)
